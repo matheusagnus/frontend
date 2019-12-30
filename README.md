@@ -40,4 +40,4 @@ O nosso desafio aqui uma Single Page Aplication dos produtos Marvel usando o Fra
 
 ## Por fim...
 
-Esperamos muito que você tenha um ótimo aprendizado realizando esse teste! Se persistirem quaisquer dúvidas bastar entrar em contato conosco através do e-mail: ferreira.zx@gmail.com. No assunto coloque "Vaga De Front End" e no corpo do e-mail a sua dúvida. Bom teste!
+Esperamos muito que você tenha um ótimo aprendizado realizando esse teste! Se persistirem quaisquer dúvidas bastar entrar em contato conosco através do e-mail: romulo@nolu.io. No assunto coloque "Vaga De Front End" e no corpo do e-mail a sua dúvida. Bom teste!
